@@ -16,14 +16,14 @@ Before you begin, ensure you have the following installed:
 
 - Node.js and npm
 - Firebase account and a new project created
-- Firebase CLI for setting up Firebase in your project
+
 
 ## Getting Started
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/todo-next-firebase.git
+    git clone https://github.com/125Akash/Todo_APPFirebase.git
     cd todo-next-firebase
     ```
 
